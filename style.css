@@ -1,0 +1,57 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    background-color: #d9d6d6;
+}
+
+header {
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(https://i.pinimg.com/736x/c1/88/74/c188749491c3d1f1920de534fab5ba92.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 60vh;
+    
+}
+ h3 {
+    font-family:Arial, Helvetica, sans-serif;
+ }
+
+nav {
+    box-shadow: 7px 5px 5px  rgba(0, 0, 0, 0.501);
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+nav > a { 
+    color: #fafafa;
+    text-decoration:none;
+    padding: 10px 30px;
+    font-weight: bold;
+
+}
+
+nav > a:hover {
+    background-color: rgb(190, 182, 105);
+    color: rgb(47, 96, 10);
+}
+
+main {
+    padding: 20px;
+    color: rgb(1, 1, 1);
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #0e0101;
+    color: aliceblue;
+    font-size: 0.8em;
+}
