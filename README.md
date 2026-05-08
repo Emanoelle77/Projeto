@@ -1,16 +1,13 @@
-# Projeto - MPB (Música Popular Brasileira)
+# Projeto - Site Marisa Monte
+Este projeto é um site inspirado no estilo vidual de páginas de artistas da MPB, mas desenvolvido para representar a cantora Marisa Monte.
+O objetivo é criar uma experiência visual elegante e organizada, reunindo informações sobre sua carreira, músicas, álbuns e tragetória na música brasileira.
 
-Este projeto tem como objetivo explorar a MPB, abordando sua história, principais características, artistas marcantes e sua importância cultural no Brasil.
-A MPB é um dos movimentos musicais mais relevantes do país, surgindo na década de 1960 e misturando elementos do samba, bossa nova, folk, entre outros.
-Objetivos
-- Compreender o surgimento da MPB
-- Identificar suas principais características musicais
-- Conhecer artistas importantes do gênero
-- Analisar a relação da MPB com o contexto histórico e social
-- Valorizar a cultura brasileira
+# Estrutura do projeto
+index.html
+style.css
+/img
+/pages
+--> /obra -> albuns.html, canções.html
+--> textos.html
+--> vida.html
 
-Conteúdos Abordados
-- História da MPB
-- Principais Artistas
-- Características
-- Músicas
